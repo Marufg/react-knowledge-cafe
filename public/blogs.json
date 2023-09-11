@@ -1,0 +1,52 @@
+[
+    {
+        "id": 12345,
+        "cover": "./images/2.png",
+        "title": "The Secret Garden",
+        "author": "Jane Doe",
+        "author_img": "./images/boy1.png",
+        "posted_date": "September 5, 2023",
+        "reading_time": 6,
+        "hashtags": ["Mystery", "Adventure", "Fantasy"]
+    },
+    {
+        "id": 67890,
+        "cover": "./images/1.jpg",
+        "title": "Lost in Space",
+        "author": "John Smith",
+        "author_img": "./images/boy2.png",
+        "posted_date": "August 25, 2023",
+        "reading_time": 7,
+        "hashtags": ["SciFi", "Exploration", "Adventure"]
+    },
+    {
+        "id": 54321,
+        "cover": "./images/3.png",
+        "title": "The Enchanted Forest",
+        "author": "Emily Johnson",
+        "author_img": "./images/girl1.jpg",
+        "posted_date": "September 1, 2023",
+        "reading_time": 8,
+        "hashtags": ["Fantasy", "Magic", "Nature"]
+    },
+    {
+        "id": 98765,
+        "cover": "./images/4.jpg",
+        "title": "Code Breakers",
+        "author": "David Anderson",
+        "author_img": "./images/girl2.jpg",
+        "posted_date": "August 28, 2023",
+        "reading_time": 4,
+        "hashtags": ["Mystery", "Thriller", "Coding"]
+    },
+    {
+        "id": 13579,
+        "cover": "./images/2.png",
+        "title": "A Taste of History",
+        "author": "Sarah Martinez",
+        "author_img": "./images/boy2.png",
+        "posted_date": "September 10, 2023",
+        "reading_time": 5,
+        "hashtags": ["History", "Culinary", "FoodCulture"]
+    }
+]
